@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=28&pause=1000&color=3648F7&width=200&lines=Harrison+Khannah)](#)</centre></code>
+<code><centre>[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=28&pause=1000&color=3648F7&width=280&lines=Harrison+Khannah)](#)</centre></code>
   
 ![](https://komarev.com/ghpvc/?username=harrisonkhannah&label=PROFILE+VIEWS)
 
