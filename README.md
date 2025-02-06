@@ -11,7 +11,7 @@
 
 **about me**
   
-- 👾 software engineer at finder
+- 👾 software engineer at instant
 
 - ⚙️ mainly fullstack typescript dev, with a back-end preference
 
