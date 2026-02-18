@@ -11,7 +11,7 @@
 
 **about me**
   
-- 👾 software engineer at instant
+- 👾 sse at humanitix 🎫
 
 - ⚙️ mainly fullstack typescript dev, with a back-end preference
 
